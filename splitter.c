@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_NAME_LENGTH 30
+#define MAX_NAME_LENGTH 50
 #define INFINITY 999999.0
 
 typedef struct {
